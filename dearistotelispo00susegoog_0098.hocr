@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dearistotelispo00susegoog_0098.png"; bbox 0 0 4850 5918; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1279 9 1349 142">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1279 9 1349 142">
+     <span class='ocr_line' id='line_1_1' title="bbox 1279 9 1349 142; baseline 0 -22"><span class='ocrx_word' id='word_1_1' title='bbox 1279 9 1349 142; x_wconf 57' lang='grc' dir='ltr'>(ᾖ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 556 665 1930 836">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 556 665 1930 836">
+     <span class='ocr_line' id='line_1_2' title="bbox 556 665 1930 836; baseline 0.001 -4"><span class='ocrx_word' id='word_1_2' title='bbox 556 668 1004 833; x_wconf 90' lang='lat' dir='ltr'>INDEX</span> <span class='ocrx_word' id='word_1_3' title='bbox 1076 665 1930 836; x_wconf 87' lang='lat' dir='ltr'>SCHOLARVM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 390 1265 2094 1782">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 390 1265 2094 1782">
+     <span class='ocr_line' id='line_1_3' title="bbox 390 1265 2094 1462; baseline 0.001 -2"><span class='ocrx_word' id='word_1_4' title='bbox 390 1265 1277 1460; x_wconf 75' lang='lat' dir='ltr'>VNIVERSITATE</span> <span class='ocrx_word' id='word_1_5' title='bbox 1380 1266 2094 1462; x_wconf 80' lang='lat' dir='ltr'>LITTERARIA</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 670 1586 1812 1782; baseline -0.002 -2"><span class='ocrx_word' id='word_1_6' title='bbox 670 1586 1812 1782; x_wconf 79' lang='lat' dir='ltr'>GRYPHISWALDENSI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 805 2311 1678 2398">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 805 2311 1678 2398">
+     <span class='ocr_line' id='line_1_5' title="bbox 805 2311 1678 2398; baseline 0 -2"><span class='ocrx_word' id='word_1_7' title='bbox 805 2315 979 2396; x_wconf 87' lang='lat' dir='ltr'><strong>ANNI</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1031 2313 1436 2398; x_wconf 83' lang='lat' dir='ltr'>MDOOOXOIV</span> <span class='ocrx_word' id='word_1_9' title='bbox 1461 2355 1516 2368; x_wconf 94' lang='lat'><em>-</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1542 2311 1678 2398; x_wconf 78' lang='lat' dir='ltr'>XCV</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 3005 2 4035">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 3005 2 4035">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 3005 2 4035; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 3005 2 4035; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 2430 5908">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 2430 5908">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 2430 5908; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 2430 5908; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
